@@ -64,7 +64,7 @@ Add to your AI assistant's context:
 ```
 Before making any technical decision (choosing libraries, patterns, or architecture),
 create an AgDR document following the template at:
-https://github.com/me2resh/agent-decision-record
+https://github.com/mohamedshabban/agent-decision-record
 ```
 
 ### Output
@@ -261,4 +261,4 @@ You are free to share and adapt this material with appropriate credit.
 
 ---
 
-Created by [me2resh](https://github.com/me2resh)
+Created by [me2resh](https://github.com/mohamedshabban)
