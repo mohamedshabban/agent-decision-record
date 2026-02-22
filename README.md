@@ -33,7 +33,7 @@ AgDR solves this by requiring agents to document decisions in a structured, huma
 ### Install as Claude Code Plugin
 
 ```bash
-/plugin marketplace add me2resh/agent-decision-record
+/plugin marketplace add mohamedshabban/agent-decision-record
 /plugin install agent-decision-record@agent-decision-record
 ```
 
